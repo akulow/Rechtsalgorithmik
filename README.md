@@ -1,1 +1,5 @@
-# rechtsalgorithmik
+# Rechtsalgorithmik
+
+# Algorithmen
+
+# Recht und Algorithmen
